@@ -1,2 +1,2 @@
 # AndroidTourismAppWithFirebase
-Android based tourism app powered by firebase
+Tourism app with Android and firebase
